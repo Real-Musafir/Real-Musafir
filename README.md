@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Md Abdullah Al Shahadath</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
@@ -13,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alshahadath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alshahadath/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alshahadath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alshahadath" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=real-musafir&show_icons=true&locale=en" alt="real-musafir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=real-musafir&" alt="real-musafir" /></p>
+

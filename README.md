@@ -1,5 +1,6 @@
 # 💫 About Me:
-Experienced software engineer with 3 years of professional success. Skilled in multiple languages, libraries, and frameworks, solving real-world problems with clean and efficient code.
+Experienced software engineer with 3.5
+years of professional success. Skilled in multiple languages, libraries, and frameworks, solving real-world problems with clean and efficient code.
 
 
 ## 🌐 Socials:
